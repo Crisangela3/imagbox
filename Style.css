@@ -1,0 +1,42 @@
+body {
+    background: rgb(201, 192, 179)
+}
+
+#R.jpg {
+    width: 50%;
+}
+
+.R.jpg li {
+    display: in line-block;
+    text-align: center;
+    width: 400px;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+} 
+
+h1 {
+    text-align: center
+}
+
+#missao {
+    font-size: 50px;
+}
+
+p {
+    text-align: center
+}
+
+em strong {
+    color: red
+}
+
+
+
+
+
+
+    
